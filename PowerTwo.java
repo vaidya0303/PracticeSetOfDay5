@@ -16,5 +16,5 @@ public class PowerTwo{
 			System.out.println("Enter a number");
 			int n = sc.nextInt();
 			P2.multiply(n);
-		}
+		 }
 	}
