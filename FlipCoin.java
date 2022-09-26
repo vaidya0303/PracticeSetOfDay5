@@ -8,7 +8,7 @@ public class FlipCoin {
 			System.out.println("coin "+CoinFlip);
 			if(CoinFlip < 0.5) {
 				Tails++;
-			}
+			 }
 			else
 				Heads++;
 		}
